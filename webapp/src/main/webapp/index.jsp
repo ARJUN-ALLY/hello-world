@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> tujhe har haal mai apni life acchi karni hai Pranav, acchese padh aur aage ja </h1>
+   <h1> tujhe har haal mai apni life acchi karni hi hai Pranav, acchese padh aur aage ja </h1>
 
   
 </form>
